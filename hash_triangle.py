@@ -34,5 +34,5 @@ for row in range(1, base_wdth + 1): # 4 loops
     output += row_str
 
 
-print(output)
+print(output, end="")
 
